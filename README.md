@@ -1,1 +1,1 @@
-# rppg-deepfake-detector
+A PyTorch implementation of an rPPG-based deepfake detector inspired by DeepFakesON-Phys. This model utilizes a 3D Convolutional Neural Network (3D CNN) with spatial attention mechanisms to analyze subtle physiological cues (blood volume changes) extracted from facial video clips. Designed to classify videos as real or fake using the Celeb-DF (v2) dataset.
