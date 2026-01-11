@@ -33,6 +33,8 @@ Best performing model combining EfficientNet-B2 visual features with POS-based r
 
 Flask-based interface for video deepfake detection.
 
+![demo](https://github.com/user-attachments/assets/bc2d05db-c53c-4338-97ba-8f8375973c93)
+
 **Features:**
 - Video upload (MP4, AVI, MOV, MKV, WebM)
 - Real-time analysis with confidence scores
@@ -96,5 +98,3 @@ rppg-deepfake-detector/
 - May not detect AI-generated videos (Sora, Runway, etc.)
 - May not detect fully synthetic faces or audio-only manipulations
 - Requires visible face with natural physiological signals
-
----
